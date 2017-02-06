@@ -11,5 +11,8 @@ public class program {
     public double sub(Double a, Double b) {
         return a - b
     }
+	public double mult(Double a, Double b) {
+        return a*2
+    }
 
 }
