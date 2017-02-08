@@ -12,7 +12,7 @@ public class program {
         return a - b
     }
 	public double mult(Double a, Double b) {
-        return a*2
+        return a*b
     }
 
 }
